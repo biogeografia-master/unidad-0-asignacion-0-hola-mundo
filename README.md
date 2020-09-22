@@ -2,7 +2,7 @@
 
 Probemos que GitHub funciona.
 
-* Acepta la invitación que habrás recibido por correo (revisa tu spam), con el asunto `unidad-0-asignacion-0-hola-mundo`. Al hacer clic sobre la invitación, se debe generar un repo del que serás co-propietario/a conjuntamente con el profesor, con un nombre tal que `unidad-0-asignacion0-hola-mundo-tuusuariodegithub`. Si no recibiste la invitación, avísame por mensajería o al correo del profesor.
+* Acepta la invitación que habrás recibido por la plataforma o por correo (revisa tu spam), con el asunto `unidad-0-asignacion-0-hola-mundo`. Al hacer clic sobre la invitación, se debe generar un repo del que serás co-propietario/a conjuntamente con el profesor, con un nombre tal que `unidad-0-asignacion0-hola-mundo-tuusuariodegithub`. Si no recibiste la invitación, avísame por mensajería o al correo del profesor.
 
 * En tu repo, desde GitHub, haz clic sobre el nombre de archivo `README.md`, que es precisamente el que contiene este texto.
 
